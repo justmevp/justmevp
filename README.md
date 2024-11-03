@@ -12,6 +12,8 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=justmevp&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+[![](https://visitcount.itsvg.in/api?id=justmevp&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
